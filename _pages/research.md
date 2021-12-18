@@ -1,7 +1,12 @@
 ---
+permalink: /research
 title: "Research"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Research"
+author_profile: true
 collection: research
+redirect_from: 
+  - /research/
+  - /research.html
 ---
 
 My background is in applied mathematics. I specialized in systems biology modeling during my PhD. Later I did research on machine learning applications in genomics.
