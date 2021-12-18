@@ -4,9 +4,9 @@ title: "Research"
 excerpt: "Research"
 author_profile: true
 collection: research
-redirect_from: 
-  - /research/
-  - /research.md
+#redirect_from: 
+ # - /research/
+ # - /research.md
 ---
 
 My background is in applied mathematics. I specialized in systems biology modeling during my PhD. Later I did research on machine learning applications in genomics.
