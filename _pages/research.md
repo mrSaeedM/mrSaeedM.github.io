@@ -1,7 +1,7 @@
 ---
 permalink: /research
 title: "Research"
-excerpt: "Research"
+excerpt: "research"
 author_profile: true
 #collection: research
 
