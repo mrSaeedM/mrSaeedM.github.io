@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Systems biology"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: ""
+permalink: /teaching/research-systems-biology
+#venue: "University 1, Department"
+#date: 2014-01-01
+location: "Eindhoven"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+My background is in applied mathematics. I specialized in systems biology modeling during my PhD. Later I did research on machine learning applications in genomics.
 
-Heading 1
-======
+**Systems biology**
 
-Heading 2
-======
-
-Heading 3
-======
+Check out my Phd Thesis. [PDF](https://research.tue.nl/files/92435580/20180313_Masroor.pdf)
