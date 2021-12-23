@@ -1,9 +1,8 @@
 ---
-permalink: /research
+layout: archive
 title: "Research"
-excerpt: "research"
+permalink: /research/
 author_profile: true
-#collection: research
 
 ---
 
