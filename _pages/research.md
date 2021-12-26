@@ -33,10 +33,12 @@ study of the interaction of body with drugs, is the subject of the Chapter 7 of
 my thesis. We deal with the mathematical modeling, fitting, and interpreting of clinical trial data related to the blood glucose regulation in human subjects.
 We study the effect a new drug on the number of the glucagon receptors in
 the liver as well as its effect on the action of the hormone glucagon in blood
-glucose regulation. $ \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}  $
+glucose regulation. 
 
-<div class="math">
-\begin{equation}
-  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}  
-\end{equation}
-</div>
+# $ \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}  $
+
+# <div class="math">
+#\begin{equation}
+#  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}  
+# \end{equation}
+# </div>
