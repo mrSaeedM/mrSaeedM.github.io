@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saeed Masroor / personal website"
+title                    : "Saeed Masroor"
 title_separator          : "-"
 name                     : &name "Saeed Masroor"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Saeed Masroor"
   avatar           : "SMasroor.jpg"
-  bio              : "Data-driven mathematician"
+  bio              : "Data-driven mathematician, Mitochondriac"
   location         : #""
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
