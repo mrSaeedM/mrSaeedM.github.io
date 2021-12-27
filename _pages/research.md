@@ -6,10 +6,11 @@ author_profile: true
 
 ---
 
-My background is in applied mathematics. I specialized in systems biology modeling during my PhD. Later I did research on machine learning applications in genomics.
+My background is in applied mathematics. I specialized in systems biology modeling during my PhD. After that I did research on machine learning applications in genomics.
+
+Check out my Phd thesis "In pursuit of mathematical principles in systems biology" [PDF](https://research.tue.nl/files/92435580/20180313_Masroor.pdf)
 
 **Systems biology approach to sensory adaptation**
-Check out my Phd Thesis "In pursuit of mathematical principles in systems biology" [PDF](https://research.tue.nl/files/92435580/20180313_Masroor.pdf)
 
 Chapters 2, 3, 4, and 5 of this my are inspired by a biological behavior
 called sensory adaptation. We can briefly define it as the continuous recalibration of biological sensors as a response to the changes in their environment. I explore the capabilities of different classes of biochemical reaction
