@@ -21,6 +21,7 @@ relaxing the constraints allows these networks to exhibit arbitrarily strong
 adaptation.
 
 **Synthetic Biology**
+
 Finding design principles in Synthetic biology is the subject of the Chapter 6
 of my PhD thesis. I study a specific synthetic biology toolbox, called the PEN-DNA toolbox, which is used to make DNA-based circuits that
 mimick the cellular signaling pathways. We find general design principles in
@@ -29,6 +30,7 @@ the toolbox. I also analyze different ways of reducing the complexity of
 the mathematical models of this toolbox.
 
 **Systems Pharmacology**
+
 Systems pharmacology, the quantitative and data integrated approach to the
 study of the interaction of body with drugs, is the subject of the Chapter 7 of
 my thesis. We deal with the mathematical modeling, fitting, and interpreting of clinical trial data related to the blood glucose regulation in human subjects.
