@@ -10,7 +10,8 @@ My background is in applied mathematics. I specialized in systems biology modeli
 
 Check out my Phd thesis "In pursuit of mathematical principles in systems biology" [PDF](https://research.tue.nl/files/92435580/20180313_Masroor.pdf)
 
-**Better ways to perform mitochondrial DNA association studies
+
+**Better ways to perform mitochondrial DNA association studies**
 
 I study the variations in the mitochondrial genome. I am interested in determining the pathogenicity of mtDNA variants and their role in the etiology of chronic disease, cancer treatment, and healthy aging. I am developing methods to perform Genome-Wide Association Studies for mitochondrial DNA. The goal is to overcome the limitations of traditional methods, such as haplogroup association studies that are underpowered to detect subtle changes when dealing with a moderate sample size.
 
