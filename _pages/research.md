@@ -9,9 +9,11 @@ author_profile: true
 My background is in applied mathematics. I specialized in systems biology modeling during my PhD. After that I did research on machine learning applications in genomics.
 
 Check out my Phd thesis "In pursuit of mathematical principles in systems biology" [PDF](https://research.tue.nl/files/92435580/20180313_Masroor.pdf)
+
 **Better ways to perform mitochondrial DNA association studies
 
 I study the variations in the mitochondrial genome. I am interested in determining the pathogenicity of mtDNA variants and their role in the etiology of chronic disease, cancer treatment, and healthy aging. I am developing methods to perform Genome-Wide Association Studies for mitochondrial DNA. The goal is to overcome the limitations of traditional methods, such as haplogroup association studies that are underpowered to detect subtle changes when dealing with a moderate sample size.
+
 **Systems biology approach to sensory adaptation**
 
 Chapters 2, 3, 4, and 5 of this my are inspired by a biological behavior
