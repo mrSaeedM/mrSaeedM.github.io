@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I work as consultant scientist. My background is in applied mathematics. I specialized in systems biology/pharmacology modeling during my PhD. 
+I work as a consultant scientist. My background is in applied mathematics. I specialized in systems biology/pharmacology modeling during my PhD. 
 
